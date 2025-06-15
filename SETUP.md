@@ -80,5 +80,3 @@ slack trigger create --trigger-def "triggers/gpt_mentioned_trigger.ts"
 ```
 
 8. 🎉 Use ChatGPT through a Slack interface
-
-<img width="600" alt="Saying hello world to @SlackGPT" src="https://user-images.githubusercontent.com/178719/206929669-06895ca1-3ae1-4ca7-81cb-2ce124f476a3.png">
