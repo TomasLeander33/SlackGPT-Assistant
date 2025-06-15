@@ -8,8 +8,6 @@ Feedback loops with AI whereever we're working is a step-wise gain in
 productivity. I want to help people leverage ChatGPT through Slack and other
 tools.
 
-<img width="800" alt="Saying hello world to @SlackGPT" src="https://user-images.githubusercontent.com/178719/206929669-06895ca1-3ae1-4ca7-81cb-2ce124f476a3.png">
-
 - [Slack](https://slack.com/) is the place where work happens. Slack is an
   easy-to-use communication platform that helps teams stay organized,
   productive, and connected, no matter where they are. It allows users to
@@ -67,10 +65,6 @@ able to contribute back. Keep up the incredible work!
 - I tweeted the beginning of this exploration using code generated from ChatGPT:
   https://twitter.com/frankc/status/1599841602729816064
 
-[<img width="577" alt="Slack has an internal event called SlackDay to hack on things. ChatGPT + Slack → SlackGPT LFG!" src="https://user-images.githubusercontent.com/178719/206937851-38fc5716-3e69-46d6-ac80-017d6924b0c5.png">](https://twitter.com/frankc/status/1599841602729816064)
-
-[**Read the full conversation on Twitter**](https://twitter.com/frankc/status/1599841602729816064)
-
 # Examples
 
 Here's how I've used ChatGPT through Slack to start structuring ideas. The
@@ -83,8 +77,7 @@ direct output is not perfect, but a useful starting point.
 
 | Read code → documentation                                                                                                                                                                                                                                                        | Read ingredients → recipe                                                                                                                                                                                                                                | Take concept → diagram                                                                                                                                                                                                                                            | Take exercises → workouts                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img width="200" alt="example-documentation-from-reading-code" src="https://user-images.githubusercontent.com/178719/207098084-b07941ee-8df9-457f-85fb-5e1a8353cc6e.png">](https://user-images.githubusercontent.com/178719/207098084-b07941ee-8df9-457f-85fb-5e1a8353cc6e.png) | [<img width="200" alt="example-cooking" src="https://user-images.githubusercontent.com/178719/207098086-bde444a3-dad9-42d1-a344-ee2c2729bf5d.png">](https://user-images.githubusercontent.com/178719/207098086-bde444a3-dad9-42d1-a344-ee2c2729bf5d.png) | [<img width="200" alt="example-browsers-diagram" src="https://user-images.githubusercontent.com/178719/207098073-1f6667f5-8642-44bb-9543-ec71b5067bfb.png">](https://user-images.githubusercontent.com/178719/207098073-1f6667f5-8642-44bb-9543-ec71b5067bfb.png) | [<img width="150" alt="example-training" src="https://user-images.githubusercontent.com/178719/207098081-afcbe96f-8b23-4114-8ba0-fed7f05a064c.png">](https://user-images.githubusercontent.com/178719/207098081-afcbe96f-8b23-4114-8ba0-fed7f05a064c.png) |
-
+| 
 3️⃣ Example diagram
 
 ```mermaid
